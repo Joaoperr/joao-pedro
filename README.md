@@ -3,3 +3,5 @@
 # estado-civil-solteiro
 # sexo-masculino
 # curso-assistente-adminstrativo
+# muito-comunicativo
+# disposto-a-aprender
